@@ -1,4 +1,3 @@
-
   TRANSCRIBER’S NOTE
 
   Italic text is denoted by _underscores_.
@@ -1323,7 +1322,7 @@ cut-up dates (or raisins) and 1 cup cut-up nuts.
 
 NOTE: The spices may be omitted.
 
-[Sidenote: Molasses ‘n’ spice, my how nice!]
+[Sidenote: Molasses ’n’ spice, my how nice!]
 
 
 ★ GINGER CREAMS
@@ -4337,3 +4336,4 @@ ALPHABETICAL INDEX
   Pp    31: “opposite page” replaced with “above page”
   Pp    32: “opposite page” replaced with “below”
      Index: “Bar Bookies” replaced with “Bar Cookies”
+
